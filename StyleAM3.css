@@ -1,0 +1,20 @@
+		body {background-color:grey;
+			color: darkred;}
+		
+		h1 
+		{text-align:center;
+		background-color:maroon !important; }
+		
+		.backcolor
+		{background-color: beige;
+		color: black;}
+	
+		.tableheader
+		{font-style: italic;
+		font-style: bold;
+		background-color:red;}
+		
+		img
+		{height:150; 
+		width:150;
+		border: 5px solid firebrick}
